@@ -1,0 +1,25 @@
+
+
+
+
+header{
+    text-align: center;
+    color: blue;
+    font-size: large;
+}
+nav{
+    text-align: center;
+    font-size: smaller;
+    display: inline ;
+}
+h2{
+    color: blue;
+}
+#PERFIL_PROFESIONAL{
+    background-color: rgba(0, 26, 255, 0.397);
+    color: white;
+}
+header img{
+    max-width: 200px;
+    height: right;
+}
